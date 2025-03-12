@@ -17,6 +17,7 @@
     "express-rate-limit": "^7.5.0",
     "helmet": "^8.0.0",
     "hpp": "^0.2.3",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.9",
     "xss-clean": "^0.1.4"
   }
